@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/vijay/IdeaProjects/ATB8xAutomationTesting">
         <classes>
-            <class name="com.vijay.testing.RestAssuredBasics.POST.APITestNG007">
+            <class name="com.vijay.testing.RestAssuredBasics.Integration.APITestNGIntegration">
             </class>
         </classes>
     </test>
