@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/vijay/IdeaProjects/ATB8xAutomationTesting">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="com.vijay.testing.TestNGExamples.APITestNGParamater012">
+            </class>
+        </classes>
+    </test>
+</suite>
